@@ -9,5 +9,6 @@ rust:1.80.0-slim
 dko0/lsky-pro:2.1
 jenkins/jenkins:2.477-jdk17
 node:20.17.0
+nginx:1.26.2-perl
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
