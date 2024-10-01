@@ -2,6 +2,7 @@ mysql:8.0.31
 mysql:8.0.27
 mysql:8.0
 mysql:8.4.0
+debian:stable-20240904-slim
 jellyfin/jellyfin:2024091605-amd64
 rust:1.80.1-slim
 rust:1.80.0-slim
