@@ -3,7 +3,6 @@ mysql:8.0.27
 mysql:8.0
 mysql:8.4.0
 jellyfin/jellyfin:2024091605-amd64
-debian:stable-20240904-slim
 rust:1.80.1-slim
 rust:1.80.0-slim
 dko0/lsky-pro:2.1
