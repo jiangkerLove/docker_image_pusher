@@ -1,2 +1,2 @@
-mysql:8.4.3
+ruby:3.3.6-slim
 --platform=linux/arm64 xiaoyaliu/alist
