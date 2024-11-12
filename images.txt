@@ -1,2 +1,2 @@
-ruby:3.3.6-slim
+ruby:2.7.8-slim-bullseye
 --platform=linux/arm64 xiaoyaliu/alist
