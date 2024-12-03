@@ -1,1 +1,1 @@
-jc21/nginx-proxy-manager:github-pr-4021
+jc21/nginx-proxy-manager:2.11.3
