@@ -1,1 +1,1 @@
-ghcr.io/ajnart/homarr:latest
+elasticsearch:8.17.0
