@@ -1,1 +1,1 @@
-mongodb/mongodb-community-server:5.0.22-ubi8
+rabbitmq:3.13.7
