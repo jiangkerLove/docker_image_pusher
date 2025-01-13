@@ -1,1 +1,1 @@
-minio/minio:latest
+logstash:7.17.26
