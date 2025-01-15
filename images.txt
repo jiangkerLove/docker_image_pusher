@@ -1,1 +1,1 @@
-rabbitmq:3.13.7
+apache/activemq-classic:5.18.6
