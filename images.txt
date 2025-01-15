@@ -1,1 +1,1 @@
-apache/activemq-classic:5.18.6
+apache/rocketmq:5.3.1
