@@ -1,1 +1,1 @@
-ubuntu:20.04
+johngong/baidunetdisk:v_4.17.7_4.6.4_amd64
