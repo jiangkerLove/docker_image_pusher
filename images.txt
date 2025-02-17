@@ -1,1 +1,1 @@
-johngong/baidunetdisk:v_4.17.7_4.6.4_amd64
+jellyfin/jellyfin:2025021706
