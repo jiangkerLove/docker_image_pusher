@@ -1,1 +1,1 @@
-jellyfin/jellyfin:2025021706
+linuxserver/jellyfin:10.10.6ubu2404-ls53
