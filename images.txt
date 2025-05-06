@@ -1,1 +1,1 @@
-ghcr.io/immich-app/immich-cli:v1.132.3
+ghcr.io/immich-app/immich-cli:latest
