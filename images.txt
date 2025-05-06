@@ -1,1 +1,1 @@
-linuxserver/jellyfin:10.10.6ubu2404-ls53
+ghcr.io/immich-app/immich-server:v1.132.3-release
