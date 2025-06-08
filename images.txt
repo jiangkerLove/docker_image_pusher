@@ -1,1 +1,2 @@
-onerahmet/openai-whisper-asr-webservice:v1.8.2
+ghcr.io/immich-app/immich-cli:v1.134.0
+ghcr.io/immich-app/immich-machine-learning:v1.134.0
