@@ -1,1 +1,1 @@
-postgres:16.10
+ghcr.io/immich-app/immich-server:commit-21f6b0a407943f4dea6e89009391e4dfce26d240
